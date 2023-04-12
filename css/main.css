@@ -807,7 +807,7 @@ select:focus {
 	.block-tabs li:last-child {
 		margin-bottom: 0;
 	}
-	section.barbers .container:last-child .row:last-child span.fw-700,
+	section.Products .container:last-child .row:last-child span.fw-700,
 	section.locations .container:last-child .row .col-sm-4:last-child,
 	section.news .container:last-child .row .col-sm-4:last-child {
 		margin-bottom: 0;
